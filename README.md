@@ -1,23 +1,57 @@
-# Johnathan Pereira 👨‍💻
+<div align="center">
+  <h1>Johnathan Pereira</h1>
+  <p><b>Suporte Técnico e Operações de Infraestrutura de TI | Field Service (L1/L2) | Graduando em TI e Desenvolvimento de Software | Visão Comercial e Marketing Digital</b></p>
+</div>
 
-🧩 **Estudante de Tecnologia da Informação (Superior) e Desenvolvimento de Sistemas (Técnico) | Comércio (Técnico) e Marketing Digital | Experiência nas áreas de suporte técnico (Tecnologia da Informação) e Comercial (Marketing Digital)**
+<br>
 
-## 🎓 Formação Acadêmica
-* 🏛️ **Bacharelado em Tecnologia da Informação (BTI)** – UNIVESP
-* 💻 **Técnico em Desenvolvimento de Sistemas (DS)** – ETEC
-* 📊 **Técnico em Comércio** – ETEC
+## 👨‍💻 Sobre mim
 
-## 💻 Foco Técnico
-* <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> **Linguagem Principal:** Python
+Atuo como estagiário de TI na Secretaria da Educação do Estado de São Paulo (SEDUC/PROATI), assumindo a responsabilidade pelo suporte operacional direto e garantindo o pleno funcionamento tecnológico do ambiente institucional. A fundação para essa execução diária provém do Bacharelado em Tecnologia da Informação pela UNIVESP. Essa graduação não apenas fundamenta a minha prática profissional e capacidade analítica, mas também consolida a minha integração definitiva ao setor de tecnologia, unindo a teoria acadêmica à necessidade de resolver problemas reais com agilidade.
 
-## 📌 Próximos Passos na Trilha de Estudos
-* <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> HTML5 e CSS3
+Para complementar essa rotina e aprofundar os conhecimentos em arquitetura de software, curso Desenvolvimento de Sistemas na ETEC, etapa que já me garantiu a certificação de Auxiliar de Desenvolvimento de Sistemas. Meu interesse pela área, no entanto, começou na linha de frente atuando como técnico de informática autônomo. Essa raiz focada na manutenção de hardware e configuração de redes permanece ativa no mercado corporativo privado, sustentada por um contrato de suporte em campo com a 3AM IT Services.
 
-## 💼 Background Profissional e Experiência Prática
-* ⚙️ **Suporte de TI:** Manutenção de hardware, montagem de equipamentos e *troubleshooting* (solução de problemas técnicos).
-* 📱 **Marketing Digital:** Consultoria, análise de perfis, criação de artes e edição de vídeos. 
+Além da infraestrutura de TI, trago a experiência de projetos práticos como freelancer em marketing digital. Para alinhar essa vivência a uma visão corporativa e estratégica, finalizo o curso técnico em Comércio, o qual me confere as titulações de Assistente Comercial e de Técnico em Comércio. Esse aprofundamento em gestão e negócios direciona o meu trabalho para que a tecnologia entregue valor comercial e funcionalidade real à empresa. Busco oportunidades em tecnologia em que eu possa aplicar essa compreensão estratégica, resolvendo os problemas diários da operação e crescendo tecnicamente de forma sólida.
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JohnathanWellPer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JohnathanWellPer@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519999871108)
+<br>
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" title="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="Windows" title="Windows" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" title="GitHub" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="Canva" title="Canva" />
+  <img width="20" />
+  <img src="https://api.iconify.design/logos:google-gemini.svg" height="60" alt="Google Gemini" title="Google Gemini" />
+  <img width="20" />
+  <img src="https://api.iconify.design/fluent-emoji:spiral-notepad.svg" height="60" alt="NotebookLM" title="NotebookLM" />
+</div>
+
+<br>
+
+## 📊 Desempenho e Atividade
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Estatísticas Gerais" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Linguagens" />
+</div>
+
+<br>
+
+## 📫 Contato e Conexões
+
+<div align="center">
+  <a href="https://linkedin.com/in/JohnathanWellPer" target="_blank" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55" alt="LinkedIn" title="LinkedIn" border="0" /></a>
+  <img width="20" />
+  <a href="mailto:JohnathanWellPer@gmail.com" target="_blank" style="text-decoration:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="55" alt="Gmail" title="Gmail" border="0" /></a>
+  <img width="20" />
+  <a href="https://wa.me/5519999871108" target="_blank" style="text-decoration:none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="55" alt="WhatsApp" title="WhatsApp" border="0" /></a>
+</div>
