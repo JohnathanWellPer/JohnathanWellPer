@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello, World! I'm Johnathan Pereira</h1>
+  <p>
+    <em>Information Technology | Systems Development</em><br>
+    <em>Tecnologia da Informação | Desenvolvimento de Sistemas</em>
+  </p>
+  <p>
+    <i>Choose your language:</i><br>
+    <i>Escolha seu idioma:</i><br>
+    <a href="#english">English</a> | <a href="#portuguese">Português</a>
+  </p>
+</div>
 
-<!--
-**JohnathanWellPer/JohnathanWellPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Contact<br>Contato</h3>
+  <a href="https://www.linkedin.com/in/johnathanwellper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:johnathanwellper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5519999871108" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+---
+
+<h2 id="english">Profile</h2>
+
+**Education:**
+- **Bachelor of Information Technology** - UNIVESP
+- **Technical Degree in Systems Development** - ETEC
+- **Technical Degree in Commerce** - ETEC
+- **Foundations of Generative AI (Google Cloud)** - SENAI
+
+<br/>
+
+---
+
+<h2 id="portuguese">Perfil</h2>
+
+**Formação Acadêmica:**
+- **Bacharelado em Tecnologia da Informação** - UNIVESP
+- **Técnico em Desenvolvimento de Sistemas** - ETEC
+- **Técnico em Comércio** - ETEC
+- **Fundamentos de Inteligência Artificial Generativa (Google Cloud)** - SENAI
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>GitHub Stats<br>Estatísticas do GitHub</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" alt="Top Languages" height="150" />
+</div>
