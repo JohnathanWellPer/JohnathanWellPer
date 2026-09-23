@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
 
 <br/>
@@ -72,8 +76,8 @@
 
 <div align="center">
   <h2>GitHub Stats<br>Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" height="150" />
-  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=333333" alt="Top Languages" />
 </div>
 
 <br/>
