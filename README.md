@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
 </div>
 
 <br/>
@@ -71,7 +72,7 @@
 
 <div align="center">
   <h2>GitHub Stats<br>Estatísticas do GitHub</h2>
-  <img src="https://github.readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" height="150" />
   <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" alt="Top Languages" height="150" />
 </div>
 
