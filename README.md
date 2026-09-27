@@ -37,6 +37,10 @@
 
 <div align="center">
   <h2>Featured Repositories<br>Repositórios em Destaque</h2>
+  <a href="https://johnathanpereira.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-johnathanpereira.com.br-100000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/JohnathanWellPer/univesp-tecnologia_da_informacao">
     <img src="https://img.shields.io/badge/UNIVESP-Bachelor_of_Information_Technology-100000?style=for-the-badge&logo=github&logoColor=white" alt="UNIVESP Portfolio">
   </a>
@@ -76,8 +80,8 @@
 
 <div align="center">
   <h2>GitHub Stats<br>Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=333333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanWellPer&show_icons=true&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanWellPer&layout=compact&theme=dark&hide_border=true&title_color=0077B5" alt="Top Languages" />
 </div>
 
 <br/>
